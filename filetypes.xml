@@ -5,6 +5,7 @@
       <mapping pattern="Foor" type="CLASS" />
       <mapping pattern="gitignore" type="CLASS" />
       <mapping pattern="Triin1" type="CLASS" />
+      <mapping pattern="harj1" type="CLASS" />
     </extensionMap>
   </component>
 </application>
