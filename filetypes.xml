@@ -3,13 +3,13 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Harjutus1_lipud" type="CLASS" />
+      <mapping pattern="numbrid" type="CLASS" />
       <mapping pattern="Foor" type="CLASS" />
-      <mapping pattern="harj1" type="CLASS" />
       <mapping pattern="teremaailm" type="CLASS" />
       <mapping pattern="gitignore" type="CLASS" />
       <mapping pattern="Triin1" type="CLASS" />
       <mapping pattern="Teremaailm" type="CLASS" />
-      <mapping pattern="numbrid" type="CLASS" />
+      <mapping pattern="harj1" type="CLASS" />
     </extensionMap>
   </component>
 </application>
