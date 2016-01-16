@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="Harjutus1_lipud" type="CLASS" />
       <mapping pattern="Foor" type="CLASS" />
-      <mapping pattern="teremaailm" type="CLASS" />
       <mapping pattern="gitignore" type="CLASS" />
+      <mapping pattern="teremaailm" type="CLASS" />
       <mapping pattern="Triin1" type="CLASS" />
       <mapping pattern="numbrid" type="CLASS" />
       <mapping pattern="Teremaailm" type="CLASS" />
